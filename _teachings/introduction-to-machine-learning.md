@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Introduction to Machine Learning
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
+title: Physics II without Calculus
+description: Second semester of introductory physics de-emphasizing calculus. Electric charge, field, and circuits; electromagnetism, applied electricity; geometrical optics, wave optics, applied optics; electrons and photons; atoms and nuclei. This course affords students the ability to critically examine and evaluate the principles of the scientific method, model construction, and use the scientific method to explain natural experiences and phenomena.
 instructor: Prof. Example
-year: 2023
-term: Fall
-location: Main Campus, Room 301
-time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: intro-machine-learning
+#year:
+#term:
+location: Gainesville, University of Florida
+#time:
+course_id: phy2054
 schedule:
   - week: 1
     date: Sept 5

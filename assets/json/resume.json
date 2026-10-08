@@ -51,23 +51,14 @@
   ],
   "publications": [
     {
-      "authors": [
-        "C. Litos",
-        "S. Verner",
-        "W. Xue",
-        "F. Yang"
-      ],
+      "authors": ["C. Litos", "S. Verner", "W. Xue", "F. Yang"],
       "year": 2026,
       "title": "Gravitational Waves from Long Strings and Loops",
       "arxiv": "2609.22430",
       "url": "https://arxiv.org/pdf/2609.22430"
     },
     {
-      "authors": [
-        "A. Foraci",
-        "C. Litos",
-        "R. P. Woodard"
-      ],
+      "authors": ["A. Foraci", "C. Litos", "R. P. Woodard"],
       "year": 2026,
       "title": "Sensing the Inflationary Production of Scalars",
       "journal": "Classical and Quantum Gravity",
@@ -78,11 +69,7 @@
       "url": "https://doi.org/10.1088/1361-6382/aeaf36"
     },
     {
-      "authors": [
-        "J. M. Cline",
-        "C. Litos",
-        "W. Xue"
-      ],
+      "authors": ["J. M. Cline", "C. Litos", "W. Xue"],
       "year": 2025,
       "title": "Axion Strings from String Axions",
       "journal": "Physical Review D",
@@ -96,11 +83,7 @@
       "url": "https://doi.org/10.1103/21zb-lzb9"
     },
     {
-      "authors": [
-        "C. Litos",
-        "R. P. Woodard",
-        "B. Yesilyurt"
-      ],
+      "authors": ["C. Litos", "R. P. Woodard", "B. Yesilyurt"],
       "year": 2023,
       "title": "Large Inflationary Logarithms in a Nontrivial Nonlinear Sigma Model",
       "journal": "Physical Review D",
@@ -114,10 +97,7 @@
       "url": "https://doi.org/10.1103/PhysRevD.108.065001"
     },
     {
-      "authors": [
-        "E. Kiritsis",
-        "C. Litos"
-      ],
+      "authors": ["E. Kiritsis", "C. Litos"],
       "year": 2022,
       "title": "Holographic RG Flows on Squashed S^3",
       "journal": "Journal of High Energy Physics",
@@ -194,29 +174,10 @@
     ]
   },
   "technical_skills": {
-    "programming_languages": [
-      "Python",
-      "C/C++"
-    ],
-    "software_and_tools": [
-      "Mathematica",
-      "LaTeX",
-      "Git",
-      "GitHub",
-      "hpg"
-    ],
-    "python_packages": [
-      "Pandas",
-      "Matplotlib",
-      "Numpy",
-      "Scipy",
-      "Scikit-learn"
-    ],
-    "operating_systems": [
-      "Linux",
-      "Windows",
-      "macOS"
-    ]
+    "programming_languages": ["Python", "C/C++"],
+    "software_and_tools": ["Mathematica", "LaTeX", "Git", "GitHub", "hpg"],
+    "python_packages": ["Pandas", "Matplotlib", "Numpy", "Scipy", "Scikit-learn"],
+    "operating_systems": ["Linux", "Windows", "macOS"]
   },
   "languages": [
     {

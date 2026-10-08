@@ -1,33 +1,17 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+title: My paper "Gravitational Waves from Long Strings and Loops" got posted on the arXiv.
+date: September 2026
+inline: False
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Abstract:
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+We compute the gravitational wave spectrum produced by a global cosmic string network in the scaling regime. The spectrum naturally divides at the string correlation length into infrared and ultraviolet parts. In the infrared, we derive the spectrum analytically from the unequal-time correlator of the string stress-energy tensor within the unconnected segment model, which we generalize for the first time to string loops. The loop contribution can be comparable to that of long strings, depending on the loop evolution parameters. In the ultraviolet, where structure below the correlation length dominates the source, we develop a data-driven method that connects this correlator formalism to the instantaneous radiation power spectrum measured in existing lattice simulations. The predicted spectrum rises with frequency as $\Omega_{\rm GW}\propto k$ and $k^{3}$ in the infrared, and flattens into a plateau with a mild logarithmic tilt in the ultraviolet. The turnover frequency between the two is set by the mass of the Goldstone boson, the axion. Confronting the predicted spectrum with current data and projected sensitivities, we map out current constraints and future probes in the plane of the symmetry-breaking scale ~ $f_a$ and the axion mass ~ $m_a$.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.

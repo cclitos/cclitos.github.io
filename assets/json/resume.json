@@ -12,7 +12,6 @@
       }
     ]
   },
-
   "education": [
     {
       "institution": "University of Florida",
@@ -31,7 +30,6 @@
       "endDate": "2022"
     }
   ],
-
   "work": [
     {
       "name": "University of Florida",
@@ -56,7 +54,6 @@
       "endDate": "2022"
     }
   ],
-
   "publications": [
     {
       "name": "Gravitational Waves from Long Strings and Loops",
@@ -94,7 +91,6 @@
       "summary": "E. Kiritsis, C. Litos. Journal of High Energy Physics 12 (2022) 161. DOI: 10.1007/JHEP12(2022)161."
     }
   ],
-
   "awards": [
     {
       "title": "Constantine and Patricia Mavroyannis Scholarship",
@@ -127,7 +123,6 @@
       "url": "https://www.iky.gr/ypotrofies/efpatheis-koinonikes-omades-eko-espa-2021-2027/"
     }
   ],
-
   "projects": [
     {
       "name": "Research Interests",
@@ -143,7 +138,6 @@
       "endDate": null
     }
   ],
-
   "skills": [
     {
       "name": "Programming Languages",
@@ -162,7 +156,6 @@
       "keywords": ["Linux", "Windows", "macOS"]
     }
   ],
-
   "languages": [
     {
       "language": "Greek",
@@ -177,7 +170,6 @@
       "fluency": "Intermediate"
     }
   ],
-
   "talks": [
   {
     "name": "Observational Signatures of Cosmic Strings",

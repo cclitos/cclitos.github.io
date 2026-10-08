@@ -19,7 +19,7 @@ description:
 </div>
 
 <div class="text-center mt-3">
-  <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" class="btn btn-primary" download>
+  <a href="{{ '/assets/pdf/CV.pdf' | relative_url }}" class="btn btn-primary" download>
     <i class="fas fa-download"></i> Download CV
   </a>
 </div>

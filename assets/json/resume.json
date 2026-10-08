@@ -21,9 +21,7 @@
       "startDate": "2022",
       "endDate": null,
       "score": "",
-      "courses": [
-        "Advisor: Wei Xue"
-      ]
+      "courses": ["Advisor: Wei Xue"]
     },
     {
       "institution": "University of Crete",
@@ -149,38 +147,19 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "Python",
-        "C/C++"
-      ]
+      "keywords": ["Python", "C/C++"]
     },
     {
       "name": "Software and Tools",
-      "keywords": [
-        "Mathematica",
-        "LaTeX",
-        "Git",
-        "GitHub",
-        "HPG"
-      ]
+      "keywords": ["Mathematica", "LaTeX", "Git", "GitHub", "HPG"]
     },
     {
       "name": "Python Packages",
-      "keywords": [
-        "Pandas",
-        "Matplotlib",
-        "NumPy",
-        "SciPy",
-        "Scikit-learn"
-      ]
+      "keywords": ["Pandas", "Matplotlib", "NumPy", "SciPy", "Scikit-learn"]
     },
     {
       "name": "Operating Systems",
-      "keywords": [
-        "Linux",
-        "Windows",
-        "macOS"
-      ]
+      "keywords": ["Linux", "Windows", "macOS"]
     }
   ],
 

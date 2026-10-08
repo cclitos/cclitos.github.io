@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ~_Sic Parvis Magna_ (Greatness from small beginnings)
+subtitle: ~ _Sic Parvis Magna_ (Greatness from small beginnings)
 
 profile:
   align: right

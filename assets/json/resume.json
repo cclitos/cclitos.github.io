@@ -1,221 +1,287 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": []
+  "personal": {
+    "name": "Christos Litos",
+    "department": "Department of Physics, University of Florida",
+    "email": "c.litos@ufl.edu",
+    "website": "https://sites.google.com/ufl.edu/christos-litos",
+    "orcid": "0009-0009-8823-6264"
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
-    },
-    {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+  "research_interests": [
+    "Cosmic Strings",
+    "Gravitational waves",
+    "Cosmic Microwave Background",
+    "Inflation",
+    "Beyond the Standard Model Physics",
+    "Extra Dimensions"
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "University of Florida",
+      "location": "Florida, USA",
+      "period": "2022 - Present",
+      "degree": "Ph.D. in Physics",
+      "advisor": "Dr. Wei Xue"
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "University of Crete",
+      "location": "Greece",
+      "period": "2018 - 2022",
+      "degree": "BSc in Physics"
     }
   ],
-  "awards": [
+  "appointments": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Graduate Research/Teaching Assistant",
+      "institution": "University of Florida",
+      "department": "Department of Physics",
+      "period": "2022 - Present"
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Research Assistant",
+      "institution": "Institute of Astrophysics, FORTH",
+      "affiliation": "University of Crete, Greece",
+      "period": "2021 - 2022"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "title": "Research Assistant",
+      "institution": "Crete Center for Theoretical Physics",
+      "affiliation": "University of Crete, Greece",
+      "period": "2020 - 2022"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "authors": [
+        "C. Litos",
+        "S. Verner",
+        "W. Xue",
+        "F. Yang"
+      ],
+      "year": 2026,
+      "title": "Gravitational Waves from Long Strings and Loops",
+      "arxiv": "2609.22430",
+      "url": "https://arxiv.org/pdf/2609.22430"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "authors": [
+        "A. Foraci",
+        "C. Litos",
+        "R. P. Woodard"
+      ],
+      "year": 2026,
+      "title": "Sensing the Inflationary Production of Scalars",
+      "journal": "Classical and Quantum Gravity",
+      "publisher": "IOP Publishing",
+      "status": "accepted",
+      "pages": "1-12",
+      "doi": "10.1088/1361-6382/aeaf36",
+      "url": "https://doi.org/10.1088/1361-6382/aeaf36"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
+      "authors": [
+        "J. M. Cline",
+        "C. Litos",
+        "W. Xue"
+      ],
+      "year": 2025,
+      "title": "Axion Strings from String Axions",
+      "journal": "Physical Review D",
+      "publisher": "American Physical Society",
+      "volume": "111",
+      "issue": "12",
+      "article_number": "123558",
+      "date": "June 2025",
+      "pages": "1-7",
+      "doi": "10.1103/21zb-lzb9",
+      "url": "https://doi.org/10.1103/21zb-lzb9"
+    },
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "authors": [
+        "C. Litos",
+        "R. P. Woodard",
+        "B. Yesilyurt"
+      ],
+      "year": 2023,
+      "title": "Large Inflationary Logarithms in a Nontrivial Nonlinear Sigma Model",
+      "journal": "Physical Review D",
+      "publisher": "American Physical Society",
+      "volume": "108",
+      "issue": "6",
+      "article_number": "065001",
+      "date": "September 2023",
+      "pages": "1-13",
+      "doi": "10.1103/PhysRevD.108.065001",
+      "url": "https://doi.org/10.1103/PhysRevD.108.065001"
+    },
+    {
+      "authors": [
+        "E. Kiritsis",
+        "C. Litos"
+      ],
+      "year": 2022,
+      "title": "Holographic RG Flows on Squashed S^3",
+      "journal": "Journal of High Energy Physics",
+      "publisher": "Springer",
+      "date": "December 2022",
+      "volume": "2022",
+      "issue": "12",
+      "article_number": "161",
+      "doi": "10.1007/JHEP12(2022)161",
+      "url": "https://doi.org/10.1007/JHEP12(2022)161"
     }
   ],
+  "awards": [
+    {
+      "name": "Constantine and Patricia Mavroyannis Scholarship",
+      "year": 2025,
+      "url": "https://phys.ufl.edu/2025/10/03/uf-physics-graduate-student-named-mavroyannis-scholarship-recipient/"
+    },
+    {
+      "name": "Charles F. Hooper Jr. Memorial Award",
+      "year": 2024,
+      "url": "https://phys.ufl.edu/2024/12/18/physics-graduate-student-poster-party-and-student-award-winners/"
+    },
+    {
+      "name": "Gerondelis Foundation Graduate School Grand",
+      "year": 2024,
+      "url": "https://gerondelisfoundation.com/graduate-school-grants/"
+    },
+    {
+      "name": "Graduate Student Teaching Award",
+      "year": 2024,
+      "url": "https://grad.ufl.edu/current/fund-award/awards/gsta/"
+    },
+    {
+      "name": "Elisavet Karamintzou Award",
+      "year": 2022,
+      "description": "Awarded to the top three graduates in each department of the University of Crete based on their grade point average in their studies."
+    },
+    {
+      "name": "Program of financial support for diligent students in vulnerable social groups (IKY-EKO)",
+      "year": "2019-2022",
+      "url": "https://www.iky.gr/ypotrofies/efpatheis-koinonikes-omades-eko-espa-2021-2027/"
+    }
+  ],
+  "presentations": {
+    "invited_talks": [
+      {
+        "title": "Observational Signatures of Cosmic Strings",
+        "venue": "HET Seminar, Department of Physics, University of Notre Dame",
+        "date": "September 2026"
+      },
+      {
+        "title": "Observational Signatures of Cosmic Strings",
+        "venue": "HET Seminar, Department of Physics, Florida State University",
+        "date": "October 2026"
+      },
+      {
+        "title": "Observational Signatures of Cosmic Strings",
+        "venue": "HET Seminar, Department of Physics, University of Minessota",
+        "date": "November 2026"
+      }
+    ],
+    "conference_talks": [
+      {
+        "title": "Gravitational Waves from Long Strings and Loops",
+        "conference": "PHENO 2026, University of Pittsburgh",
+        "date": "May 2026"
+      },
+      {
+        "title": "Axion strings from string axions",
+        "conference": "PHENO 2025, University of Pittsburgh",
+        "date": "May 2025"
+      }
+    ]
+  },
+  "technical_skills": {
+    "programming_languages": [
+      "Python",
+      "C/C++"
+    ],
+    "software_and_tools": [
+      "Mathematica",
+      "LaTeX",
+      "Git",
+      "GitHub",
+      "hpg"
+    ],
+    "python_packages": [
+      "Pandas",
+      "Matplotlib",
+      "Numpy",
+      "Scipy",
+      "Scikit-learn"
+    ],
+    "operating_systems": [
+      "Linux",
+      "Windows",
+      "macOS"
+    ]
+  },
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Greek",
+      "proficiency": "native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "proficiency": "fluent"
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "language": "Spanish"
     }
   ],
-  "projects": [
+  "teaching_experience": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "role": "Teaching Assistant",
+      "course": "Physics II without Calculus",
+      "period": "Spring 2026, Fall 2026",
+      "description": "Organized discussion sections and prepared quizzes for undergraduate students taking Physics II without calculus at the University of Florida."
+    },
+    {
+      "role": "Lecturer",
+      "course": "Physics II without Calculus",
+      "period": "Fall 2024, Summer 2025, Summer 2026",
+      "description": "Lectured Physics II to a class of 300 students, which included overseeing a team of Teaching Assistants and preparing exams."
+    },
+    {
+      "role": "Teaching Assistant",
+      "course": "Physics I lab",
+      "period": "2022-2023",
+      "description": "Introductory laboratory course for undergraduates taking Physics I at the University of Florida."
+    }
+  ],
+  "science_communication_and_outreach": {
+    "service": [
+      {
+        "role": "Organizer and Writer",
+        "organization": "Physics Graduate Community, University of Florida",
+        "period": "2023-Present"
+      }
+    ],
+    "talks": [
+      {
+        "title": "Topological Defects in Cosmology",
+        "date": "November 2025",
+        "venue": "Graduate Student and Postdoc Seminar at UF Physics"
+      },
+      {
+        "title": "Probing the Vacuum Metastability through Inflation",
+        "date": "March 2024",
+        "venue": "Graduate Student and Postdoc Seminar at UF Physics"
+      }
+    ]
+  },
+  "workshops_attended": [
+    {
+      "name": "High Energy Theory in the Swamp",
+      "institution": "University of Florida",
+      "year": 2025
+    },
+    {
+      "name": "The Early Universe: A Window to New Physics",
+      "institution": "University of Florida",
+      "year": 2023
     }
   ]
 }

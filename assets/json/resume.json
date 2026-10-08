@@ -4,7 +4,6 @@
     "label": "Ph.D. Student in Physics",
     "email": "c.litos@ufl.edu",
     "url": "https://sites.google.com/ufl.edu/christos-litos",
-    "summary": "Department of Physics, University of Florida",
     "profiles": [
       {
         "network": "ORCID",
@@ -37,7 +36,7 @@
 
   "work": [
     {
-      "name": "University of Florida",
+      "name": "U. of Florida",
       "position": "Graduate Research/Teaching Assistant",
       "location": "Florida, USA",
       "startDate": "2022",

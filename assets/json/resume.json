@@ -171,17 +171,17 @@
     }
   ],
   "talks": [
-  {
-    "name": "Observational Signatures of Cosmic Strings",
-    "description": "HET Seminar, Department of Physics, University of Notre Dame — September 2026"
-  },
-  {
-    "name": "Observational Signatures of Cosmic Strings",
-    "description": "HET Seminar, Department of Physics, Florida State University — October 2026"
-  },
-  {
-    "name": "Observational Signatures of Cosmic Strings",
-    "description": "HET Seminar, Department of Physics, University of Minnesota — November 2026"
-  }
-]
+    {
+      "name": "Observational Signatures of Cosmic Strings",
+      "description": "HET Seminar, Department of Physics, University of Notre Dame — September 2026"
+    },
+    {
+      "name": "Observational Signatures of Cosmic Strings",
+      "description": "HET Seminar, Department of Physics, Florida State University — October 2026"
+    },
+    {
+      "name": "Observational Signatures of Cosmic Strings",
+      "description": "HET Seminar, Department of Physics, University of Minnesota — November 2026"
+    }
+  ]
 }

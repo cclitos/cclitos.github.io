@@ -178,17 +178,18 @@
     }
   ],
 
-  "Invited Talks": [
-    {
-      "name": "Research Interests",
-      "keywords": [
-        "Cosmic Strings",
-        "Gravitational Waves",
-        "Cosmic Microwave Background",
-        "Inflation",
-        "Beyond the Standard Model Physics",
-        "Extra Dimensions"
-      ]
-    }
-  ]
+  "projects": [
+  {
+    "name": "Observational Signatures of Cosmic Strings",
+    "description": "HET Seminar, Department of Physics, University of Notre Dame — September 2026"
+  },
+  {
+    "name": "Observational Signatures of Cosmic Strings",
+    "description": "HET Seminar, Department of Physics, Florida State University — October 2026"
+  },
+  {
+    "name": "Observational Signatures of Cosmic Strings",
+    "description": "HET Seminar, Department of Physics, University of Minnesota — November 2026"
+  }
+]
 }

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ~_Sis Parvis Magna_
+subtitle: Sis Parvis Magna
 
 profile:
   align: right

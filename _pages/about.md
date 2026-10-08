@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Sis Parvis Magna
+subtitle: ~_Sic Parvis Magna_ (Greatness from small beginnings)
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>NPB 2058</p>
     <p>Physics Department, University of Florida</p>

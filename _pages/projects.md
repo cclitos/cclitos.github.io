@@ -1,13 +1,15 @@
 ---
 layout: page
-title: projects
+title: Physics Books
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description:
+nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
+Just like all of my colleagues, I had to read a myriad of books on various physics subjects in order to both complete my degrees and do my research. As such, I decided to make a compilation of the best books I've read (in my biased opinion) for each subject, and what I think their strong points are.
 
 <!-- pages/projects.md -->
 <div class="projects">

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "~Sic Parvis Magna~ (Greatness from small beginnings)"
+subtitle: "*Sic Parvis Magna* (Greatness from small beginnings)"
 
 profile:
   align: right
@@ -31,7 +31,8 @@ I am a 5th year physics graduate student at the University of Florida. Having ob
 
 Throughout my PhD, I have worked on two different research directions: topological defect phenomenology and inflation. On the inflation side, I am interested in studying the evolution of spectator fields during inflation and how their interactions can be intepreted stochastically. I have brought to completion two projects: 
 
-<p> aa </p>
+- **Large Inflationary Logarithms in a Nontrivial Nonlinear Sigma Model**: Alexei Starobinsky pioneered the stochastic formalism with which he described how quantum fluctuations backreact on the evolution of scalar fields with non-derivative interactions. Much work has been done since then to extend it to all other kinds of theories. My collaborators and I tested one such extension for scalar fields with derivative interactions in a non-linear sigma model. In particular, we cross checked the leading logarithm predictions of the stochastic formalism with their direct two-loop counterpart, finding exact agreement between the two.
+- **Sensing the Inflationary Production of Scalars**: My collaborators and I investigated the effects of loop corrections to the graviton self energy from conformally coupled fields and massless, minimally coupled scalars and interpreted them using the stochastic formalism and a variant of the renormalization group.
 
 On the topological defect side, I am interested in observational signatures of cosmic string networks, most notably how to capture them using analytical methods. 
 

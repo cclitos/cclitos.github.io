@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 5th year physics graduate student at the University of Florida. Having obtained my Bachelors at the University of Crete, I came to UF to pursue a doctorate in cosmology. I have worked on topological defect phenomenology and inflation. On the inflation side, I am interested in studying the evolution of spectator fields during inflation and how their interactions can be intepreted stochastically. On the topological defect side, I am interested in observational signatures of cosmic string networks, most notably how to capture them using analytical methods. 
+I am a 5th year physics graduate student at the University of Florida. Having obtained my Bachelors at the University of Crete, I came to UF to pursue a doctorate in cosmology.
+
+Throughout my PhD, I have worked on two different research directions: topological defect phenomenology and inflation. On the inflation side, I am interested in studying the evolution of spectator fields during inflation and how their interactions can be intepreted stochastically. I have brought to completion two projects: 
+
+<p> aa </p>
+
+On the topological defect side, I am interested in observational signatures of cosmic string networks, most notably how to capture them using analytical methods. 
 
 Links to my work can be found below. I am an avid lover of martial arts and manga, and am always happy to discuss interesting physics problems:)

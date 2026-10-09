@@ -41,4 +41,4 @@ On the topological defect side, I am interested in observational signatures of c
 
 - **Axion Strings from String Axions**: My collaborators and I proposed a novel formation mechanism that proceeds via a first-order Randall-Sundrum compactification phase transition: strings form at the junction of three bubbles during percolation, and the resulting tension is set by the warp factor, making it parametrically smaller than that of field-theory axion strings.
 
-When I am not doing physics, I am either playing sports (I am an avid lover of martial arts) or am reading manga. I am always happy to discuss interesting physics problems, so feel free to reach out to me:)
+When I am not doing physics, I am either playing sports (I am an avid lover of martial arts) or am reading manga. I am always happy to discuss interesting physics problems, so [feel free to reach out to me](c.litos@ufl.edu):)
